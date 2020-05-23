@@ -1,0 +1,1 @@
+Javascript exercises by the youtuber Junior Developer Central!
